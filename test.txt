@@ -1,8 +1,8 @@
-a,b,c,d,5_x,5_y,_merge
+,1,3,0,5_x,5_y,_merge
 16,2007,75cl,chateauhautcondissas,16.0,17.0,both
 17,2007,75cl,chateauhautcondissas,17.0,16.0,both
-34,1949,37.5cl,chateaulafiterothschild,759.0,798.0,both
-35,1949,37.5cl,chateaulafiterothschild,798.0,759.0,both
+34,1949,"37,5cl",chateaulafiterothschild,759.0,798.0,both
+35,1949,"37,5cl",chateaulafiterothschild,798.0,759.0,both
 49,1952,75cl,chateaumoutonrothschild,1550.0,2200.0,both
 50,1952,75cl,chateaumoutonrothschild,2200.0,1550.0,both
 81,2013,75cl,chateauhaut-brion,269.0,278.0,both
