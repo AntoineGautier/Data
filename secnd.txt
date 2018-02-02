@@ -1,0 +1,165 @@
+px <,1,Lafite Rothschild,1928.0,Pauillac,75cl,1850.0,VRAC,reconditonnée château en 1990
+px <,1,Lafite Rothschild,1937.0,Pauillac,75cl,990.0,VRAC,"reconditonnée château en 1990 / etiq ""piquée"""
+px <,1,Lafite Rothschild,1950.0,Pauillac,75cl,1025.0,VRAC,
+px <,1,Lafite Rothschild,1955.0,Pauillac,MAG,2050.0,VRAC,TLB/HE
+NEW,1,Lafite Rothschild,1958.0,Pauillac,75cl,680.0,VRAC,"TLB/HE, 1 accroc"
+ px<,1,Lafite Rothschild,1959.0,Pauillac,75cl,1275.0,VRAC,HE
+NEW,1,Lafite Rothschild,1968.0,Pauillac,75cl,875.0,VRAC,etiq leg abimée   
+px <,1,Lafite Rothschild,1977.0,Pauillac,MAG,950.0,VRAC,
+ ,1,Lafite Rothschild,1978.0,Pauillac,MAG,990.0,VRAC,etiq tres leg marquee
+NEW,1,Lafite Rothschild,1982.0,Pauillac,75cl,2750.0,VRAC,etiq leg abimée / TLB+/ caps leg oxydée
+NEW,1,Lafite Rothschild,1982.0,Pauillac,75cl,3050.0,VRAC,etiq tres leg déchirée
+ ,1,Lafite Rothschild,1985.0,Pauillac,75cl,600.0,VRAC,etiq leg marquee
+ ,1,Lafite Rothschild,1985.0,Pauillac,75cl,490.0,VRAC,etiq entiere tres abimée
+ ,3,Lafite Rothschild,1986.0,Pauillac,75cl,1025.0,VRAC,etiq tres tres leg marquee
+ ,4,Lafite Rothschild,1986.0,Pauillac,75cl,1100.0,VRAC, 
+px <,2,Lafite Rothschild,1986.0,Pauillac,MAG,2350.0,VRAC,
+ ,1,Lafite Rothschild,1988.0,Pauillac,75cl,530.0,VRAC,etiq déchirée
+ ,3,Lafite Rothschild,1988.0,Pauillac,75cl,565.0,VRAC,etiq un peu marquées
+px <,1,Lafite Rothschild,1988.0,Pauillac,75cl,620.0,VRAC,
+ ,1,Lafite Rothschild,1989.0,Pauillac,MAG,1320.0,VRAC,
+px <,1,Lafite Rothschild,1991.0,Pauillac,75cl,515.0,VRAC,
+ ,1,Lafite Rothschild,1994.0,Pauillac,75cl,500.0,VRAC,etiq tres leg marquée
+ ,1,Lafite Rothschild,2004.0,Pauillac,MAG,1200.0,CBN 1,
+ ,1,Lafite Rothschild,2004.0,Pauillac,75cl,575.0,VRAC,
+ ,1,Lafite Rothschild,2006.0,Pauillac,75cl,590.0,VRAC,
+ ,3,Lafite Rothschild,2013.0,Pauillac,75cl,390.0,VRAC,etiq tres leg marquées
+ ,1,Carruades de lafite,1996.0,Pauillac,75cl,180.0,VRAC,
+ ,2,Carruades de lafite,1998.0,Pauillac,75cl,190.0,VRAC,
+ ,2,Carruades de lafite,2008.0,Pauillac,MAG,390.0,VRAC,CE tres leg marquées
+ ,1,Mouton Rothschild,1948.0,Pauillac,75cl,2350.0,VRAC,TLB
+NEW,1,Mouton Rothschild,1955.0,Pauillac,75cl,1300.0,VRAC,TLB/HE
+ ,2,Mouton Rothschild,1975.0,Pauillac,75cl,260.0,VRAC,TLB/HE
+ ,1,Mouton Rothschild,1982.0,Pauillac,75cl,1000.0,VRAC,TLB
+NEW,1,Mouton Rothschild,1982.0,Pauillac,75cl,1125.0,VRAC,
+ ,1,Mouton Rothschild,1984.0,Pauillac,75cl,300.0,VRAC,etiq leg marquée
+NEW,2,Mouton Rothschild,1984.0,Pauillac,75cl,320.0,VRAC,TLB
+ ,5,Mouton Rothschild,1996.0,Pauillac,75cl,450.0,VRAC,etiq tres tres leg marquee
+ ,2,Mouton Rothschild,1996.0,Pauillac,75cl,450.0,VRAC,
+ ,1,Mouton Rothschild,1998.0,Pauillac,75cl,385.0,VRAC,etiq tres tres leg marquee
+ ,1,Mouton Rothschild,1998.0,Pauillac,75cl,420.0,VRAC,
+ ,1,Mouton Rothschild,2002.0,Pauillac,75cl,400.0,VRAC,
+ ,1,Mouton Rothschild,2012.0,Pauillac,75cl,315.0,VRAC,
+ ,1,Latour,1938.0,Pauillac,75cl,500.0,VRAC,TLB / HE sans etiquette
+px <,1,Latour,1950.0,Pauillac,75cl,520.0,VRAC,TLB
+px <,1,Latour,1961.0,Pauillac,MAG,7700.0,VRAC,TLB
+,1,Latour,1962.0,Pauillac,75cl,460.0,VRAC,"TLB/ HE, etiq  tachée"
+ ,2,Latour,1963.0,Pauillac,75cl,550.0,VRAC,"TLB, etiq leg sale"
+ ,1,Latour,1963.0,Pauillac,75cl,450.0,VRAC,"HE, etiq leg sale"
+ ,1,Latour,1987.0,Pauillac,75cl,325.0,VRAC,etiq tres leg marquée
+ ,1,Latour,1988.0,Pauillac,75cl,355.0,VRAC,
+ ,1,Latour,1989.0,Pauillac,75cl,360.0,VRAC,
+ ,1,Latour,1989.0,Pauillac,MAG,790.0,VRAC,etiq tres leg marquée
+ ,3,Latour,1994.0,Pauillac,75cl,370.0,VRAC,
+ ,2,Latour,1997.0,Pauillac,75cl,350.0,VRAC,etiq leg griffée
+ ,3,Latour,1997.0,Pauillac,75cl,365.0,VRAC,etiq leg plissée
+ ,2,Latour,1998.0,Pauillac,75cl,380.0,VRAC,
+px <,2,lynch bages,1961.0,Pauillac,75cl,395.0,VRAC,TLB
+px <,1,lynch bages,1961.0,Pauillac,75cl,330.0,VRAC,HE
+ ,1,lynch bages,1964.0,Pauillac,75cl,82.0,VRAC,TLB/HE
+ ,1,lynch bages,1982.0,Pauillac,75cl,225.0,VRAC,etiq leg marquée
+ ,4,lynch bages,1982.0,Pauillac,75cl,245.0,VRAC,
+ ,1,pichon baron,1959.0,Pauillac,75cl,340.0,VRAC,
+ ,4,pichon baron,1999.0,Pauillac,75cl,90.0,VRAC,
+px <,1,Pichon comtesse,1947.0,Pauillac,75cl,790.0,VRAC,TLB
+NEW,2,Pichon comtesse,1982.0,Pauillac,75cl,350.0,VRAC,HE
+NEW,1,Pichon comtesse,1982.0,Pauillac,75cl,420.0,VRAC,TLB/HE
+ ,1,Pichon comtesse,2003.0,Pauillac,75cl,97.0,VRAC,
+ ,1,margaux,1961.0,margaux,MAG,3300.0,VRAC,TLB / etiq leg marquée
+NEW,3,margaux,1964.0,margaux,75cl,440.0,VRAC,"etiq fanées ,passées"
+ ,1,margaux,1968.0,margaux,75cl,485.0,VRAC,TLB/HE
+ ,1,margaux,1971.0,margaux,75cl,300.0,VRAC,
+ ,2,margaux,1971.0,margaux,75cl,280.0,VRAC,TLB
+ ,1,margaux,1975.0,margaux,75cl,280.0,VRAC,
+NEW,1,margaux,1982.0,margaux,75cl,740.0,VRAC,TLB+
+NEW,1,margaux,1990.0,margaux,MAG,1800.0,VRAC,
+ ,1,margaux,1993.0,margaux,MAG,620.0,VRAC,etiq tres leg marquee
+ ,1,margaux,1993.0,margaux,MAG,650.0,VRAC,
+px <,1,Ducru beaucaillou,1961.0,Saint Julien,75cl,460.0,VRAC,TLB/HE
+ ,1,Ducru beaucaillou,1970.0,Saint Julien,MAG,250.0,VRAC,etiq tres leg marquée
+ ,1,beychevelle,1938.0,Saint Julien,75cl,480.0,VRAC,TLB
+ ,2,beychevelle,1959.0,Saint Julien,75cl,225.0,VRAC,TLB
+px <,1,Gruaud larose,1959.0,Saint Julien,75cl,450.0,VRAC,
+ ,2,Talbot,1982.0,Saint Julien,MAG,450.0,VRAC,etiq leg tachée
+ ,1,Montrose,1990.0,Saint Estephe,75cl,460.0,VRAC,
+,1,Cos estournel,1948.0,Saint Estephe,75cl,200.0,VRAC,mi epaule
+ ,1,Cos estournel,1982.0,Saint Estephe,75cl,260.0,VRAC,etiq leg sale
+px <,1,Calon segur,1937.0,Saint Estephe,75cl,240.0,VRAC,TLB/HE
+ ,2,Calon segur,1938.0,Saint Estephe,75cl,250.0,VRAC,HE 
+ ,3,mission haut brion,1953.0,Pessac leognan,75cl,1200.0,VRAC,etiq tres abimées
+ ,1,mission haut brion,1953.0,Pessac leognan,75cl,1200.0,VRAC,TLB
+px <,1,mission haut brion,1975.0,Pessac leognan,75cl,720.0,VRAC,parfaite
+ ,2,mission haut brion,1964.0,Pessac leognan,MAG,850.0,VRAC,etiq leg marquée
+ ,2,mission haut brion,1968.0,Pessac leognan,75cl,300.0,VRAC,etiq tres leg marquée
+,3,mission haut brion,1989.0,Pessac leognan,75cl,740.0,VRAC,etiq abimée
+,3,mission haut brion,2009.0,Pessac leognan,75cl,495.0,VRAC,
+ ,1,Haut Brion,1947.0,Pessac leognan,MAG,5150.0,VRAC,TLB
+ ,1,Haut Brion,1948.0,Pessac leognan,75cl,950.0,VRAC,TLB/HE
+px <,1,Haut Brion,1949.0,Pessac leognan,75cl,1450.0,VRAC,etiq leg marquée
+px <,3,Haut Brion,1949.0,Pessac leognan,75cl,890.0,VRAC,TLB/HE
+ ,1,Haut Brion,1959.0,Pessac leognan,75cl,985.0,VRAC,5 cm
+ ,1,Haut Brion,1959.0,Pessac leognan,75cl,1560.0,VRAC,
+ ,1,Haut Brion,1967.0,Pessac leognan,75cl,260.0,VRAC,TLB
+ ,4,Haut Brion,1982.0,Pessac leognan,75cl,675.0,VRAC,etiq tres leg marquée
+ ,3,Haut Brion,1982.0,Pessac leognan,75cl,625.0,VRAC,etiq abimée
+NEW,2,Haut Brion,1989.0,Pessac leognan,75cl,1350.0,VRAC,etiq leg marquée
+NEW,2,Haut Brion blc,1989.0,Pessac leognan,75cl,1375.0,VRAC,etiq tres leg marquée
+ ,3,Haut Brion,1995.0,Pessac leognan,75cl,350.0,VRAC,etiq leg marquée
+ ,9,Pape clement,2003.0,Pessac leognan,75cl,85.0,VRAC,
+px <,1,Cheval blanc,1961.0,Saint Emilion,MAG,2850.0,VRAC,HE
+ ,1,Cheval blanc,1967.0,Saint Emilion,MAG,750.0,VRAC,1 petit accroc
+ ,1,Cheval blanc,1992.0,Saint Emilion,75cl,260.0,VRAC,
+ ,2,Cheval blanc,1995.0,Saint Emilion,75cl,350.0,VRAC,
+ ,1,Angelus,1967.0,Saint Emilion,75cl,260.0,VRAC,etiq leg marquée
+ ,1,Angelus,1982.0,Saint Emilion,75cl,230.0,VRAC,
+ ,3,Angelus,1986.0,Saint Emilion,75cl,195.0,VRAC,
+ ,3,Angelus,2000.0,Saint Emilion,75cl,445.0,VRAC,
+ ,1,Pavie,1961.0,Saint Emilion,75cl,200.0,VRAC,HE/ME
+ ,3,Pavie,1995.0,Saint Emilion,75cl,130.0,VRAC,etiq tres tres leg marquee
+,1,la mondotte,1998.0,Saint Emilion,75cl,195.0,VRAC,
+ ,1,Figeac,1962.0,Saint Emilion,75cl,100.0,VRAC,HE/ME
+ ,1,Petrus,1953.0,Pomerol,75cl,2200.0,VRAC,TLB/HE etiq leg déchirée
+ ,1,Petrus,1954.0,Pomerol,75cl,3600.0,VRAC,TLB caps et etiq abimées
+ ,1,Petrus,1954.0,Pomerol,75cl,4850.0,VRAC,TLB+
+ ,1,Petrus,1955.0,Pomerol,75cl,2150.0,VRAC,TLB/HE
+ ,1,Petrus,1958.0,Pomerol,75cl,2100.0,VRAC,etiq et caps abimées / TLB-HE 
+ ,1,Petrus,1958.0,Pomerol,75cl,2575.0,VRAC,TLB+
+NEW,1,Petrus,1966.0,Pomerol,75cl,2400.0,VRAC,caps leg abimée
+,1,Petrus,1971.0,Pomerol,75cl,1750.0,VRAC,pass us
+ ,1,Petrus,1975.0,Pomerol,75cl,1950.0,VRAC,
+ ,3,Le Pin,1979.0,Pomerol,75cl,2950.0,VRAC,
+ ,1,Le Pin,1979.0,Pomerol,75cl,2750.0,VRAC,TLB
+ ,3,la Violette,2010.0,Pomerol,75cl,850.0,VRAC,
+ ,2,Conseillante,1961.0,Pomerol,75cl,800.0,VRAC,etiq leg tachée
+ ,1,Conseillante,1989.0,Pomerol,75cl,240.0,VRAC,etiq leg sale
+ ,1,Conseillante,1989.0,Pomerol,75cl,260.0,VRAC,
+ ,3,Evangile,1975.0,Pomerol,75cl,375.0,VRAC,
+,3,Evangile,1988.0,Pomerol,75cl,95.0,VRAC,etiq leg marquée
+,1,Yquem,1961.0,Sauternes,75cl,780.0,VRAC,etiq fanée  
+,,,,,,,,
+,,,,,,,,
+,BOURGOGNE,,,,,,,
+,,,,,,,,
+ ,1,la Tache,1969.0,DRC,75cl,2400.0,VRAC,"moins 4,5 cm"
+px<,1,Romanee conti,1979.0,DRC,Mag,13900.0,VRAC,niveau juste au dessus de la collerette
+ ,1,la Tache,1971.0,DRC,75cl,4000.0,VRAC,etiq un peu déchirée
+px<,1,la Tache,1978.0,DRC,75cl,4750.0,VRAC, 
+NEW,1,la Tache,1982.0,DRC,75cl,1850.0,VRAC,moins 4 cm
+,,,,,,,,
+px<,1,richebourg,1986.0,henri jayer,75cl,11900.0,VRAC,
+,,,,,,,,
+ ,1,Chambertin,1964.0,Armand Rousseau,75cl,3900.0,VRAC,4cm
+ ,1,chambertin,1964.0,Armand Rousseau,75cl,3400.0,VRAC,"4,5cm / caps leg abimée"
+ ,1,Clos de la roche,1964.0,Armand Rousseau,75cl,700.0,VRAC,"4,5cm  "
+,,,,,,,,
+ ,3,chambertin clos de beze,2006.0,Dominique Laurent,75cl,185.0,VRAC, 
+,,,,,,,,
+,RHONE,,,,,,,
+,,,,,,,,
+,3,mouline,1990.0,guigal,75cl,520.0,VRAC,
+,,,,,,,,
+,"Les prix s'entendent en €, hors taxe, TVA (19,6%), unitaire col de 75cl ",,,,,,,
+,Prix Départ Bordeaux,,,,,,,
+,Sauf vente,,,,,,,
+,,,,,,,,
+, ,,,,,,,
